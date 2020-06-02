@@ -10,8 +10,8 @@ begin
 
    lev_approx_pres = 500. ;; hPa 
 
-   fna = "input1.nc"
-   fnb = "input2.nc"
+   fna = "input1_ne30np4_T.nc"
+   fnb = "input2_ne30np4_T.nc"
 
    fla = addfile(fna, "r")
    flb = addfile(fnb, "r")
