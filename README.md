@@ -4,3 +4,6 @@
 - make_interp.csh: make interpolation to and from data on SE grid  
 - grids: SCRIP grid files 
 - mapping_files: mapping data files 
+- ne30np4: the default grid used in CAM5 and E3SMv1
+- ne30pg2: the new physics-dyanical grid for E3SMv2
+
